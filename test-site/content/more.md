@@ -1,7 +1,6 @@
 ---
-title: "Kiso Introduction"
+title: "Five page"
 weight: 11
 ---
 
-# Title
 Test test test test
