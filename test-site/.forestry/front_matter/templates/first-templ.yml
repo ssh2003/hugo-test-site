@@ -2,3 +2,5 @@
 label: first-templ
 hide_body: false
 fields: []
+pages:
+- test-site/content/test/two.md
